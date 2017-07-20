@@ -14,3 +14,6 @@ Implementation of the Q&A model in Theano described in the two papers related to
 ### Datasets
 - [Stanford Question Answering Dataset(SQuAD) Corpus](https://rajpurkar.github.io/SQuAD-explorer/)
 - [Word2Vec](https://code.google.com/archive/p/word2vec/)
+
+# Copyright
+Copyright 2017. All Rights Reserved.
