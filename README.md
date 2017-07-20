@@ -9,6 +9,7 @@ Implementation of the Q&A model in Theano described in the two papers related to
 ### Requirements
 - [Theano](http://deeplearning.net/software/theano/)
 - [Pandas](http://pandas.pydata.org/)
+- [NLTK (Natural Language Toolkit)](http://www.nltk.org/)
 - Python 3
 
 ### Datasets
